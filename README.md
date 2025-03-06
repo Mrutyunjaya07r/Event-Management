@@ -19,3 +19,31 @@ Chatbot: OpenAI/GPT-based LLM integration
 Authentication: JWT for security
 This intelligent event management system enhances user experience with AI-powered assistance, making event discovery and registration seamless. 🚀
 
+
+
+
+
+HOME PAGE
+![Screenshot 2025-03-06 225109](https://github.com/user-attachments/assets/a1647d2a-126f-4e3a-ac65-849f83bfe35c)
+
+![Screenshot 2025-03-06 233946](https://github.com/user-attachments/assets/21d00b43-1ef8-4363-917d-29e61509ad51)
+![Screenshot 2025-03-06 234016](https://github.com/user-attachments/assets/8678e16c-6d03-43ca-bd3f-cadb88c33204)
+
+![Screenshot 2025-03-06 234034](https://github.com/user-attachments/assets/aa8b1dba-3882-495e-87eb-7a5e1cd7de85)
+
+![Screenshot 2025-03-06 234106](https://github.com/user-attachments/assets/80c93b22-a4b2-4682-b61c-467be10aef0b)
+
+![Screenshot 2025-03-06 234117](https://github.com/user-attachments/assets/917c4e55-fdcd-43c9-aee2-8f9089062371)
+
+![Screenshot 2025-03-06 234125](https://github.com/user-attachments/assets/2c6616a1-d647-406d-a097-fea9fad3e3d4)
+
+
+
+
+
+
+
+
+
+
+
